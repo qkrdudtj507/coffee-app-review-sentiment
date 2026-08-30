@@ -4,7 +4,7 @@
 > KoBERT를 파인튜닝해 리뷰의 긍/부정 감정을 분류하는 모델입니다.
 >
 >「AI Agent 기반 커피 프랜차이즈 앱스토어 리뷰 분석: 토픽 모델링 및 감정 분석을 통한 고객 경험(CX) 인사이트 도출」의 감정 분석 모델을 담당했습니다.
-> 🏆 한국빅데이터학회 추계학술대회 데이터 분석 우수사례 발표 **우수상** 수
+> 🏆 한국빅데이터학회 추계학술대회 데이터 분석 우수사례 발표 **우수상** 수상
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.9-EE4C2C?logo=pytorch&logoColor=white)]()
@@ -88,7 +88,7 @@ coffee-app-review-sentiment/
 ├── models/
 │   └── README.md         # 학습된 가중치 파일 안내 (용량상 원본 미포함)
 └── reports/
-    └── AI_Agent_기반_커피_프랜차이즈_앱스토어_리뷰_분석.pdf   # 논문 원문
+    └── 추계학술대회 발표자료.pdf   # 논문 원문
 ```
 
 `src/` 아래 스크립트들은 원본 노트북(`notebooks/`)의 로직을 그대로 기능 단위로 정리한 것입니다. 코드 자체는 동일합니다.
