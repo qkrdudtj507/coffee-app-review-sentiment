@@ -1,0 +1,9 @@
+# 데이터 처리
+pandas
+scikit-learn
+
+# 모델 (논문 III.4 기준 버전)
+torch==2.9.0
+transformers==4.30.2
+sentencepiece==0.1.99
+kobert-transformers
