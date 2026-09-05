@@ -74,6 +74,7 @@ coffee-app-review-sentiment/
 ├── README.md
 ├── .gitignore
 ├── requirements.txt
+├── 추계학술대회 발표자료.pdf
 ├── src/
 │   ├── config.py       # 경로 · 라벨 매핑 · 하이퍼파라미터
 │   ├── model.py         # KoBERTClassifier 정의
@@ -86,9 +87,7 @@ coffee-app-review-sentiment/
 ├── data/
 │   └── README.md         # 데이터 다운로드/준비 안내 (용량·저작권상 원본 미포함)
 ├── models/
-│   └── README.md         # 학습된 가중치 파일 안내 (용량상 원본 미포함)
-└── reports/
-    └── 추계학술대회 발표자료.pdf   # 논문 발표 자료
+    └── README.md         # 학습된 가중치 파일 안내 (용량상 원본 미포함)
 ```
 
 `src/` 아래 스크립트들은 원본 노트북(`notebooks/`)의 로직을 그대로 기능 단위로 정리한 것입니다. 코드 자체는 동일합니다.
